@@ -1,4 +1,4 @@
-# login_Registration_-_DB_conn for individual Task
+# Csharpe_Login_Registration_DB_connection_for_Individual_Task
 Individual Project descriptions How it works:
 
 Hello Everyone,
