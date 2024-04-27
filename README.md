@@ -1,7 +1,10 @@
-# login_Registration_-_DB_conn
+# login_Registration_-_DB_conn for individual Task
 Individual Project descriptions How it works:
 
-Hello Sir/Everyone ! Let's talk about logging in and signing up for our project:
+Hello Everyone,
+I'm Tanvir Arabi,
+
+Let's talk about logging in and signing up for our project:
 
 Logging In: When we start the program, we see a login screen. We try to log in with random usernames and passwords. There's a checkbox to show the password if we need to double-check it. But when we click the login button, oops! We get an error message.
 
@@ -12,4 +15,4 @@ Trying Again: Back at the login screen, we try logging in again with our new use
 DB connection: All kinds of data for login and registration save to out created SQL server that already I ‘m connected my login registration forms.
 
                                           
-Thank You Everyone
+Thank You Everyone:)
